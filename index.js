@@ -127,7 +127,7 @@ createComment('This is first comment');
 
 
 
-
+// Approach -1 (Playing with designs)
 
 
 // const comments = [
